@@ -1,6 +1,6 @@
 name: Python Deployment Pipeline
 
-on:
+on: 
   push:
     branches:
       - main
